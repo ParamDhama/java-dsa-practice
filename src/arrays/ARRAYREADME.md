@@ -1,5 +1,5 @@
 # Arrays section
----
+
 An array is a collection of similar type of datatype stored in contiguous memory location. It allows multiple to be stored under a single name and accessed using an index.
 
 ## Syntax of Arrays:
